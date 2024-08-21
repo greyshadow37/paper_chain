@@ -1,4 +1,4 @@
-### Paper Chain: Decentralized Research Publishing
+# Paper Chain: Decentralized Research Publishing
 
 ![alt text](image-1.png)
 
@@ -17,7 +17,7 @@ Decentralized Research Publishing is a blockchain-based platform designed to rev
 
 ## Smart Contract Details
 
-# Overview
+### Overview
 
 The Decentralized Research Publishing smart contract provides the following features:
 
@@ -29,7 +29,7 @@ The Decentralized Research Publishing smart contract provides the following feat
 -    **Paper Review:** Reviewers can review papers, adding a layer of validation.
 -    **Role Management:** Users can transition between roles based on their activity (e.g., submitting papers or performing reviews).
 
-# Contract Functions
+### Contract Functions
 -    *loginAsAuthor():* Allows a user to become an Author if they have submitted enough papers.
 -    *loginAsReviewer():* Allows a user to become a Reviewer if they have reviewed enough papers.
 -    *uploadPaper(string memory _title, string memory _ipfsHash):* Allows an Author to upload a paper.
