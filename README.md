@@ -1,5 +1,5 @@
 # Paper Chain: Decentralized Research Publishing
-[This project was made as part of a hackathon organised by Educhain at Assam Don Bosco University, Azara in 2024]
+[This project was made as part of a hackathon organised by Educhain and conducted by Rise In and Geeks Of Gurukul at Assam Don Bosco University, Azara in 2024]
 
 ![alt text](image-1.png)
 
